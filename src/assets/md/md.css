@@ -1,0 +1,104 @@
+
+.md{
+    font-family: "Roboto";
+}
+
+.mdtepa{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+}
+.bazaznaniy{
+    font-size: 35px;
+    color: #3D4641;
+    font-weight: 500;
+}
+.vsestati{
+    background-color: #43A548;
+    color: #F7F8F8;
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: none;
+    font-size: 20px;
+}
+.chotachunmadim{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mdbox{
+    width: 380px;
+    height: 300px;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 4px 16.8px 0px #0000000D;
+}
+.mdboxtext{
+    color: #3D4641;
+}
+.mdboxtext:hover{
+    color: #43A548;
+}
+.mdboxa{
+    color: #43A548;
+    text-decoration: none;
+}
+.mdboxaota{
+    display: flex;
+    justify-content: right;
+}
+.boxdown{
+    padding: 20px;
+}
+.mdfooter{
+    background-color: #2C2B35;
+    height: 400px;
+    margin-top: 100px;
+    padding: 30px;
+
+}
+a:hover{
+    color: #43A548;
+}
+.mdfootertepa{
+    display: flex;
+    justify-content: space-between;
+}
+.mdfooterong{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+.mdfooterchap{
+    width: 580px;
+}
+.infomd{
+    font-size: 20px;
+}
+.afooter{
+    text-decoration: none;
+    color: white;
+    font-family: "Montserrat";
+}
+.mdmi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.liniya{
+    color: #919999;
+}
+.telefonnomer{
+    color: #F7F8F8;
+} 
+.telefonnomer:hover{
+    color: #43A548;
+}
+.ohirgibtn{
+    background: linear-gradient(100.98deg, #43A548 -4.14%, #52E259 108.69%);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
