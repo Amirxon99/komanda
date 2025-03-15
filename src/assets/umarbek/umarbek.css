@@ -1,0 +1,78 @@
+.green-box {
+    margin: 40px 0;
+    background: linear-gradient(100.98deg, #43A548 -4.14%, #52E259 108.69%);
+    color: white;
+    height: 442px;
+    border-radius: 40px;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.green-info h3 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 139%;
+    letter-spacing: 0px;
+}
+
+.green-info p {
+    margin-top: 20px;
+    width: 504px;
+    height: 56px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 139%;
+    letter-spacing: 0px;
+}
+
+.green-input {
+    margin-left: 70px;
+}
+
+.green-input input {
+    width: 574px;
+    height: 42px;
+    border-radius: 20px;
+    border: none;
+    padding-left: 10px;
+    margin: 20px 0;
+}
+
+.green-childs p {
+    width: 374px;
+    height: 34px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 144%;
+    letter-spacing: 0px;
+}
+
+.green-childs {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.green-childs button {
+    padding: 12px 40px;
+    border-radius: 20px;
+    background-color: white;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 139%;
+    letter-spacing: 0px;
+    color: #43A548;
+}
+select{
+    margin: 20px 0;
+    padding: 20px 20px;
+    width: 100%;
+    border-radius: 20px;
+}
+select option{
+    max-width:  906px;;
+    height: 120px;
+    
+}
