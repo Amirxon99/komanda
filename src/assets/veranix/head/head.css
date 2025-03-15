@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    nav ul{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 40px;
+        li{
+            list-style: none;
+            a{
+                color: black;
+                text-decoration: none;
+                transition: 0.5s;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            }
+            a:hover{
+                color: #18c921;
+            }
+        }
+        button{
+            padding: 8px 18px;
+            border-radius: 20px;
+            border: 1px solid #18c921;
+            background: linear-gradient(100.98deg, #43A548 -4.14%, #52E259 108.69%);
+        }
+    }
+}
