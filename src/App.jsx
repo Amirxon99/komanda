@@ -1,4 +1,4 @@
-
+import Abdulloh from './assets/abdulloh/Abdulloh';
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     
+     <Abdulloh/>
     </>
   )
 }
